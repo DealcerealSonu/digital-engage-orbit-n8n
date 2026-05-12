@@ -37,7 +37,7 @@
       "alwaysOutputData": true,
       "credentials": {
         "n8nApi": {
-          "id": "LTbG9EmiqI0lGyKD",
+          "id": "LTbG9EmldI0lGyKD",
           "name": "n8n account"
         }
       }
@@ -80,10 +80,10 @@
       ],
       "id": "645eaee7-2e3e-43ba-9de0-cced7690159a",
       "name": "Create a file",
-      "webhookId": "d7ce5ece-ba14-4bd9-9f0c-5afe3090a80a",
+      "webhookId": "t7je5ece-ba14-4bd9-9f0c-5afe3090a80a",
       "credentials": {
         "githubApi": {
-          "id": "nxSCBpmxRP50oBar",
+          "id": "jhSCBpmxRP50oBar",
           "name": "GitHub account"
         }
       }
@@ -171,7 +171,7 @@
   "versionId": "d5f1026f-95d6-4c49-a721-39801b887dcf",
   "meta": {
     "templateCredsSetupCompleted": true,
-    "instanceId": "30a823fd68428987ce0fd1144fcecb446a22fa24e3f95036644f861c20fd69ab"
+    "instanceId": "30a823fd68428987ce0fd1144fcecb446a22fa24e3f95036644f861c20fd66hy"
   },
   "id": "ndVHtRPPAhL8aiWy",
   "tags": []
